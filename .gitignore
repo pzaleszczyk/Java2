@@ -1,0 +1,8 @@
+/.gradle/
+/bin/
+/build.gradle
+/build/
+/.project
+/.classpath
+/leaderboards.txt
+
